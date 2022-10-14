@@ -12,7 +12,7 @@ import org.apache.http.protocol.HttpContext;
 /**
  * @author Janario Oliveira
  */
-public interface Authenticator extends Serializable {
+//public interface Authenticator extends Serializable {
 
 	String getKeyName();
 
